@@ -37,6 +37,9 @@ export default function Home({allPostsData}) {
           ))}
         </ul>
       </section>
+      <section>
+        <h2>Extra feature added here</h2>
+      </section>
     </Layout>
   )
 }
